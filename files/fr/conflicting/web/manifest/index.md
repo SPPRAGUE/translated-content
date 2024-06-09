@@ -1,6 +1,7 @@
 ---
 title: manifest
-slug: Web/HTML/Element/html/manifest
+slug: conflicting/Web/Manifest
+original_slug: Web/HTML/Element/html/manifest
 ---
 
 {{securecontext_header}}{{Deprecated_Header}}{{Non-standard_Header}}
